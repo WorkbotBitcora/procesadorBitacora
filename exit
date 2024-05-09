@@ -1,0 +1,302 @@
+[33mcommit 411dabbae4419aaf5d8e0b8a543c024c640f4485[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Mon May 6 21:05:22 2024 -0500
+
+    procesador
+
+[33mcommit 69956093fff800c42d8f141d9417a2ca85fb5a52[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Sun Apr 21 14:54:53 2024 -0500
+
+    Delete settings.gradle
+
+[33mcommit 18dc950a8a39b5a94a85f556c955d10b22dfe422[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Sun Apr 21 14:54:45 2024 -0500
+
+    Delete gradlew.bat
+
+[33mcommit 43c4731d7ed251c2d06bc9c7bf3dad771e3860ab[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Sun Apr 21 14:54:33 2024 -0500
+
+    Delete gradlew
+
+[33mcommit 30fcb4ad7624ca08c3342868cbcb761370c5e5f1[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Sun Apr 21 14:54:25 2024 -0500
+
+    Delete build.gradle
+
+[33mcommit dca29c07035fb4e10c4c3730cd1b12b34ed87506[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Sun Apr 21 14:54:06 2024 -0500
+
+    Delete HELP.md
+
+[33mcommit 1339458a21087d5366aa2a75f38e8ebfbcbf6342[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Sun Apr 21 14:53:36 2024 -0500
+
+    Add files via upload
+
+[33mcommit 3cdfbba9f5dcb1930e67a034c0ed023f3a491296[m
+Author: brahianOsorio <96633123+brahianOsorio@users.noreply.github.com>
+Date:   Sun Apr 21 14:42:55 2024 -0500
+
+    Delete bitacoraprocesador/bitacoraprocesador directory
+
+[33mcommit ec6eab359c099902615a22adf1f6fd1db6666ed5[m
+Author: brahianOsorio <96633123+brahianOsorio@users.noreply.github.com>
+Date:   Sun Apr 21 14:42:47 2024 -0500
+
+    Delete bitacora directory
+
+[33mcommit 4aa128af45e597319b2174c8ef87d781a26ae80e[m
+Author: brahianOsorio <96633123+brahianOsorio@users.noreply.github.com>
+Date:   Sun Apr 21 14:42:29 2024 -0500
+
+    Delete .idea directory
+
+[33mcommit 8a60948674df992064397809021d35bafaacb5e4[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Thu Apr 4 17:48:55 2024 -0500
+
+    ultima actualizacion consulta por id usuario
+
+[33mcommit cd09bbe7ce3f22287a9fedec91f3aac1c19fee98[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Thu Apr 4 01:09:01 2024 -0500
+
+    ultimos cambios
+
+[33mcommit 18d6953b1de20a3c12bf5768bc3abf49c7d6e358[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Wed Apr 3 23:33:33 2024 -0500
+
+    Mas arreglos
+
+[33mcommit 9a5e1ddfe3926d186c4e9e7dfcc7254b3ffcf165[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Wed Apr 3 23:29:37 2024 -0500
+
+    Arreglos
+
+[33mcommit 52455320496721b9f8827190d3c98aff216bf7f1[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Mon Apr 1 19:48:30 2024 -0500
+
+    Limpieza de codigo
+
+[33mcommit dd4932b904460985441cf4e04c4bee5b4fb1d668[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Sat Mar 30 22:33:46 2024 -0500
+
+    se implementa la seguridad parcial completa y se corrigen errores
+
+[33mcommit fce11e472fac65d1ab37d8a9e02b595befc8af7c[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Thu Mar 28 21:08:26 2024 -0500
+
+    implementacion de seguridad 90% lista
+
+[33mcommit 298e9af681981f9cd8b7a6242135f2afe0c0627b[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Tue Mar 26 21:52:23 2024 -0500
+
+    Primera implementacion de seguridad
+
+[33mcommit 699ad3a01c9e3cf4748daa2fe8bd5172f9b1e782[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Fri Mar 22 23:57:24 2024 -0500
+
+    implementacion de los servicios de observaciones
+
+[33mcommit 23c0db4126e28186ecb361a59ec26495455ed661[m
+Merge: d2a7ba1 c66faa0
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Thu Mar 21 19:38:58 2024 -0500
+
+    cambios
+
+[33mcommit d2a7ba1706fac2893c2ac53dc36ba7d86d4775ff[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Thu Mar 21 19:35:34 2024 -0500
+
+    algo
+
+[33mcommit c66faa0b3f3298c92f103faa1a568f30183d809f[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Thu Mar 21 18:46:26 2024 -0500
+
+    jwt
+
+[33mcommit 9d9a9bb8c6915852e0c3f8e05376a271098fbabd[m
+Author: Juanjose0017 <110146287+Juanjose0017@users.noreply.github.com>
+Date:   Thu Mar 21 17:59:14 2024 -0500
+
+    ObservacionController
+    
+    Se crean los dos metodos faltantes de las observaciones
+
+[33mcommit e4306668d3f0df2bc3d4c767dcadfdc0d292b8ac[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Mon Mar 18 21:35:20 2024 -0500
+
+    se implementa las recomendaciones por false
+
+[33mcommit f4843ad57e266117e513e724a82c4bf444988d4d[m
+Merge: 6d75734 32af689
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Mon Mar 18 21:14:25 2024 -0500
+
+    Merge branch 'main' of https://github.com/WorkbotBitcora/bitacoraprocesador
+
+[33mcommit 6d7573434b753fedefe2876db35429542ddb7cd1[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Mon Mar 18 21:14:22 2024 -0500
+
+    actualizacion de servicios
+
+[33mcommit 32af68989fdaa8d9aeb03247622fabc94b88dff3[m
+Merge: d7c103f 035438f
+Author: Steven Ruiz <100006086+Seletex@users.noreply.github.com>
+Date:   Mon Mar 18 13:49:24 2024 -0500
+
+    Merge pull request #4 from WorkbotBitcora/Login
+    
+    Login
+
+[33mcommit 035438f18d0f0ce88d0a991d647bb96a3aa9f3ef[m
+Merge: 123995c d7c103f
+Author: Steven Ruiz <100006086+Seletex@users.noreply.github.com>
+Date:   Mon Mar 18 13:29:44 2024 -0500
+
+    Merge pull request #3 from WorkbotBitcora/main
+    
+    Agregados y cambios como seguridad
+
+[33mcommit d7c103ff170e35c126cb29b016bdde6f6ed11bf4[m[33m ([m[1;31morigin/Log[m[33m)[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Fri Mar 15 23:46:46 2024 -0500
+
+    bitacora
+    
+    se arreglo los problemas relacionados con la bitácora nueva y se refactorizo el código a alto nivel
+
+[33mcommit f3c4f0d2358fe836294794072e39e40d77d43bb8[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Thu Mar 14 18:15:30 2024 -0500
+
+    ultimos cambios
+
+[33mcommit 123995c35e717284c38808a070b4b7b83ebf204b[m
+Merge: e965303 8de2424
+Author: Steven Ruiz <100006086+Seletex@users.noreply.github.com>
+Date:   Thu Mar 14 13:14:32 2024 -0500
+
+    Merge pull request #2 from WorkbotBitcora/main
+    
+    Con el Main
+
+[33mcommit 8de242463052a3936c169e37a0311eea93cd6a20[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Tue Mar 12 17:51:46 2024 -0500
+
+    se implementa un apartdado para hacer pruebas de logica
+
+[33mcommit 49f2dd184682548d120595186c3b2abb0c6b6e01[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Mon Mar 11 20:59:23 2024 -0500
+
+    cambios con sonar
+
+[33mcommit 18cb05614b37f348d8c126cd71538168b060ff76[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Sun Mar 10 23:45:46 2024 -0500
+
+    corrección de errores
+    
+    se refactorizo el login para crear los usuarios, se refactorizo el tema de las relaciones en la db y se solucionaron algunos problemas
+
+[33mcommit c77b34f591266afd0dfa143db301398989351cbf[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Sat Mar 9 23:35:54 2024 -0500
+
+    actualización de check
+
+[33mcommit 7e3d5e41b23131ed8d6a678d5701f898c023a7b8[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Sat Mar 9 23:08:32 2024 -0500
+
+    arreglo de  login
+
+[33mcommit b3d0b04e33ff13c0fcb551436a9e69940700f4de[m
+Merge: 628d9c4 86b6400
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Sat Mar 9 21:36:57 2024 -0500
+
+    Merge branch 'main' of https://github.com/WorkbotBitcora/bitacoraprocesador
+
+[33mcommit 628d9c4f6941b378554aa8bfedf7e1ab665f864c[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Sat Mar 9 21:36:54 2024 -0500
+
+    api corregido
+
+[33mcommit 86b64002def287b6e0187cd9168520d5a635c737[m
+Merge: 97f1c75 e965303
+Author: Steven Ruiz <100006086+Seletex@users.noreply.github.com>
+Date:   Sat Mar 9 19:25:04 2024 -0500
+
+    Merge pull request #1 from WorkbotBitcora/Login
+    
+    Login, por favor revisar si hay errores
+
+[33mcommit e9653037a3a333b0e23e7d3b7ac2835c0dae8279[m
+Author: Steven Ruiz <sarr1998@hotmail.com>
+Date:   Thu Mar 7 22:37:56 2024 -0500
+
+    Login, por favor revisar si hay errores
+
+[33mcommit 97f1c758162275928346c2b16493e87cf009d6a9[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Mon Mar 4 20:38:08 2024 -0500
+
+    actualizacion de db con controllers
+
+[33mcommit db1b3c92ac2ba9624b25ee07f54bc3307650648e[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Sun Mar 3 23:34:21 2024 -0500
+
+    Se termina la configuracion de la base de datos
+
+[33mcommit 65c4c6c5e312ea6d8f2090a089f2c7430505bffa[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Sun Mar 3 22:07:11 2024 -0500
+
+    se adapta a la base de datos
+
+[33mcommit 8b7e2b062bd055955b244e0f67af9d31ae3f9119[m
+Author: brahianOsorio <brahianstiven.osorio@gmail.com>
+Date:   Thu Feb 29 19:38:13 2024 -0500
+
+    data
+
+[33mcommit 01d9aca887395f1fc5c407d88634d38d98d8c5ce[m
+Author: brahianOsorio <96633123+brahianOsorio@users.noreply.github.com>
+Date:   Thu Feb 29 19:35:43 2024 -0500
+
+    primer comit
+
+[33mcommit 7bb07d08edbe255cfadb84a1c5088f3e13899f40[m
+Author: brahianOsorio <96633123+brahianOsorio@users.noreply.github.com>
+Date:   Thu Feb 29 19:33:56 2024 -0500
+
+    Delete bitacoraprocesador/bitacoraprocesador directory
+
+[33mcommit bbbda4cf0cb3d88b4c681ef1d94b7ecfee7d1b09[m
+Author: Steven Ruiz <sarr1998@hotmail.com>
+Date:   Thu Feb 15 19:25:52 2024 -0500
+
+    Bitacora Procesador Archivos Spring
