@@ -10,7 +10,6 @@ import java.util.List;
 @Table(name = "Cheks")
 public class Chek {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
 
     private String nombre;
@@ -22,4 +21,14 @@ public class Chek {
     @ManyToMany(cascade = CascadeType.ALL )
     private List<Recomendacion> recomendacionList;
 
+    public Chek() {
+    }
+
+    public Chek(long id, String nombre, long idTipoEquipo, boolean estado, List<Recomendacion> recomendacionList) {
+        this.id = id;
+        this.nombre = nombre;
+        this.idTipoEquipo = idTipoEquipo;
+        this.estado = estado;
+        this.recomendacionList = recomendacionList;
+    }
 }

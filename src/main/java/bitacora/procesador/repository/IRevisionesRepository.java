@@ -7,4 +7,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface IRevisionesRepository extends JpaRepository<Revision,Long> {
+
+
 }

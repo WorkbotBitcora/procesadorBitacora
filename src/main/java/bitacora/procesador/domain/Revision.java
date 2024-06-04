@@ -3,36 +3,28 @@ package bitacora.procesador.domain;
 import jakarta.persistence.*;
 import lombok.Data;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-@Data
+
 @Entity
 @Table(name = "revisiones")
 public class Revision {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
 
     @Temporal(TemporalType.DATE)
     private Date fechaFinal;
 
-    @OneToOne(cascade = CascadeType.PERSIST)
+    @ManyToOne
     private Observacion observacion;
 
-    @OneToOne(cascade = CascadeType.PERSIST)
+    @ManyToOne
     private Equipo equipo;
 
-    @ManyToMany (cascade = CascadeType.PERSIST)
-    private List<Chek> chekList;
+    @ManyToMany
+    private List<Chek> chekList = new ArrayList<>();
 
-    public Revision() {
-    }
-
-    public Revision(Observacion observacion, Equipo equipo, List<Chek> cheks) {
-            this.observacion = observacion;
-            this.equipo = equipo;
-            this.chekList = cheks;
-    }
 
     @PrePersist
     protected void onCreate(){
@@ -43,5 +35,57 @@ public class Revision {
         fechaFinal = new Date();
     }
 
+    public Revision() {
+    }
 
+    public Revision(Observacion observacion, Equipo equipo, List<Chek> cheks) {
+        this.observacion = observacion;
+        this.equipo = equipo;
+        this.chekList = cheks;
+    }
+
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
+    }
+
+    public Date getFechaFinal() {
+        return fechaFinal;
+    }
+
+    public void setFechaFinal(Date fechaFinal) {
+        this.fechaFinal = fechaFinal;
+    }
+
+    public Observacion getObservacion() {
+        return observacion;
+    }
+
+    public void setObservacion(Observacion observacion) {
+        this.observacion = observacion;
+    }
+
+    public Equipo getEquipo() {
+        return equipo;
+    }
+
+    public void setEquipo(Equipo equipo) {
+        this.equipo = equipo;
+    }
+
+    public List<Chek> getChekList() {
+        return chekList;
+    }
+
+    public void setChekList(List<Chek> chekList) {
+        this.chekList = chekList;
+    }
+
+    public void setChekList1(Chek chekList) {
+        System.out.println("elemento que entra al la lista del chek :  " + chekList.getNombre() );
+        this.chekList.add(chekList);
+    }
 }

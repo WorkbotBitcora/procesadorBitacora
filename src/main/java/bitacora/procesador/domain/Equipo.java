@@ -8,7 +8,6 @@ import lombok.Data;
 @Table(name = "Equipos")
 public class Equipo {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
 
     @ManyToOne
